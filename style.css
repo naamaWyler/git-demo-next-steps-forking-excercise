@@ -1,11 +1,11 @@
 h1 {
 	font-size: 40px;
 	line-height: 1;
-	color: firebrick;
+	color: purple;
 }
 
 p {
-	background-color: aqua;
-	color: magenta;
+	background-color: magenta;
+	color: plum;
 }
 td { font-size: 16px; }
